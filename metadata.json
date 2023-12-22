@@ -1,0 +1,16 @@
+{
+  "name": "halyard-mqtt",
+  "version": "0.0.1",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure mqtt instance",
+  "source": "https://github.com/halyard/puppet-mqtt",
+  "project_page": "https://github.com/halyard/puppet-mqtt",
+  "issues_url": "https://github.com/halyard/puppet-mqtt/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+
+  ]
+}
