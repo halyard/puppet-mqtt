@@ -54,6 +54,7 @@ class mqtt (
         "--ip ${metrics_ip}",
         "-e MQTT_ADDRESS=${ip}",
       ],
+      cmd   => '',
     }
   }
 }
